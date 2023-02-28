@@ -1,0 +1,19 @@
+Actual Value=11 And Expected Value=11
+Value Matching :Actual Value=Enter a valid email address. And Expected Value=Enter a valid email address.
+Value Matching :Actual Value=Confirm your email address. And Expected Value=Confirm your email address.
+Value Matching :Actual Value=Values entered do not match. And Expected Value=Values entered do not match.
+Value Matching :Actual Value=Enter a valid website url. And Expected Value=Enter a valid website url.
+Business Type Dropdown is DisabledValue Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=All other amusement and recreation industries And Expected Value=All other amusement and recreation industries
+Value Matching :Actual List Value=Casinos (except casino hotels) And Expected Value=Casinos (except casino hotels)
+Value Matching :Actual List Value=Other gambling industries And Expected Value=Other gambling industries
+Value Matching :Actual Value=Based on the answers you provided, we are unable to offer you coverage at this time. And Expected Value=Based on the answers you provided, we are unable to offer you coverage at this time.
+Continue is disabled
+Value Matching :Actual Value=Revenue And Expected Value=Revenue
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Not Matching :Actual List Value=Animal production And Expected Value=All other amusement and recreation industriesValue Not Matching :Actual List Value=Farming And Expected Value=Casinos (except casino hotels)Value Not Matching :Actual List Value=Forestry And Expected Value=Other gambling industriesValue Matching :Actual Value=Revenue And Expected Value=Revenue
+Value Matching :Actual Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization). And Expected Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization).
+Value Matching :Actual Value=Enter a valid whole number. And Expected Value=Enter a valid whole number.
+Value Matching :Actual Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization). And Expected Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization).
+Value Matching :Actual Value=Enter a valid whole number. And Expected Value=Enter a valid whole number.
+Continue Button is Disabled

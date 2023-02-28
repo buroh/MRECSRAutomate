@@ -1,0 +1,88 @@
+Actual Value=11 And Expected Value=11
+Value Matching :Actual Value=Enter a valid email address. And Expected Value=Enter a valid email address.
+Value Matching :Actual Value=Confirm your email address. And Expected Value=Confirm your email address.
+Value Matching :Actual Value=Values entered do not match. And Expected Value=Values entered do not match.
+Value Matching :Actual Value=Enter a valid website url. And Expected Value=Enter a valid website url.
+Business Type Dropdown is DisabledValue Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=All other amusement and recreation industries And Expected Value=All other amusement and recreation industries
+Value Matching :Actual List Value=Casinos (except casino hotels) And Expected Value=Casinos (except casino hotels)
+Value Matching :Actual List Value=Other gambling industries And Expected Value=Other gambling industries
+Value Matching :Actual Value=Based on the answers you provided, we are unable to offer you coverage at this time. And Expected Value=Based on the answers you provided, we are unable to offer you coverage at this time.
+Continue is disabled
+Value Matching :Actual Value=Revenue And Expected Value=Revenue
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Not Matching :Actual List Value=All other miscellaneous schools and instruction And Expected Value=All other amusement and recreation industriesValue Not Matching :Actual List Value=Automobile driving schools And Expected Value=Casinos (except casino hotels)Value Not Matching :Actual List Value=Colleges, universities, and professional schools And Expected Value=Other gambling industriesValue Not Matching :Actual List Value=Computer training And Expected Value=SelectValue Not Matching :Actual List Value=Cosmetology and barber schools And Expected Value=All other miscellaneous schools and instructionValue Not Matching :Actual List Value=Elementary and secondary schools And Expected Value=Automobile driving schoolsValue Not Matching :Actual List Value=Exam preparation and tutoring And Expected Value=Colleges, universities, and professional schoolsValue Not Matching :Actual List Value=Professional and management development training And Expected Value=Computer trainingValue Matching :Actual Value=Revenue And Expected Value=Revenue
+Value Matching :Actual Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization). And Expected Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization).
+Value Matching :Actual Value=Enter a valid whole number. And Expected Value=Enter a valid whole number.
+Value Matching :Actual Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization). And Expected Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization).
+Value Matching :Actual Value=Enter a valid whole number. And Expected Value=Enter a valid whole number.
+Continue Button is EnabledValue Matching :Actual Value=50000 And Expected Value=50000
+Value Not Matching :Actual List Value=$50,000 And Expected Value=SelectValue Not Matching :Actual List Value=$100,000 And Expected Value=50000Value Not Matching :Actual List Value=$250,000 And Expected Value=100000Value Not Matching :Actual List Value=$500,000 And Expected Value=250000Value Not Matching :Actual List Value=$1,000,000 And Expected Value=500000Value Matching :Actual Value=2500 And Expected Value=2500
+Value Not Matching :Actual List Value=$1,000 And Expected Value=SelectValue Not Matching :Actual List Value=$2,500 And Expected Value=1000Value Not Matching :Actual List Value=$5,000 And Expected Value=2500Value Not Matching :Actual List Value=$10,000 And Expected Value=5000$24.66/month$295.94/yearBusiness Details PageValue Not Matching :Actual Value= And Expected Value=Based on the answers you provided, we are unable to offer you coverage at this time.
+Continue button is enabled
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=$10,000 or less And Expected Value=$10,000 or less
+Value Matching :Actual List Value=$10,001 - $15,000 And Expected Value=$10,001 - $15,000
+Value Matching :Actual List Value=$15,001 - $30,000 And Expected Value=$15,001 - $30,000
+Value Matching :Actual List Value=$30,001 - $50,000 And Expected Value=$30,001 - $50,000
+Value Matching :Actual List Value=$50,001 - $75,000 And Expected Value=$50,001 - $75,000
+Value Matching :Actual List Value=$75,001 - $100,000 And Expected Value=$75,001 - $100,000
+Value Matching :Actual List Value=$100,001 or more And Expected Value=$100,001 or more
+Business Details PageValue Not Matching :Actual Value= And Expected Value=Based on the answers you provided, we are unable to offer you coverage at this time.
+Continue button is enabled
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=$10,000 or less And Expected Value=$10,000 or less
+Value Matching :Actual List Value=$10,001 - $15,000 And Expected Value=$10,001 - $15,000
+Value Matching :Actual List Value=$15,001 - $30,000 And Expected Value=$15,001 - $30,000
+Value Matching :Actual List Value=$30,001 - $50,000 And Expected Value=$30,001 - $50,000
+Value Matching :Actual List Value=$50,001 - $75,000 And Expected Value=$50,001 - $75,000
+Value Matching :Actual List Value=$75,001 - $100,000 And Expected Value=$75,001 - $100,000
+Value Matching :Actual List Value=$100,001 or more And Expected Value=$100,001 or more
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Not Matching :Actual List Value=2018 And Expected Value=$10,000 or less
+Value Not Matching :Actual List Value=2019 And Expected Value=$10,001 - $15,000
+Value Not Matching :Actual List Value=2020 And Expected Value=$15,001 - $30,000
+Value Not Matching :Actual List Value=2021 And Expected Value=$30,001 - $50,000
+Value Not Matching :Actual List Value=2022 And Expected Value=$50,001 - $75,000
+Business Details PageValue Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=$10,000 or less And Expected Value=$10,000 or less
+Value Matching :Actual List Value=$10,001 - $15,000 And Expected Value=$10,001 - $15,000
+Value Matching :Actual List Value=$15,001 - $30,000 And Expected Value=$15,001 - $30,000
+Value Matching :Actual List Value=$30,001 - $50,000 And Expected Value=$30,001 - $50,000
+Value Matching :Actual List Value=$50,001 - $75,000 And Expected Value=$50,001 - $75,000
+Value Matching :Actual List Value=$75,001 - $100,000 And Expected Value=$75,001 - $100,000
+Value Matching :Actual List Value=$100,001 or more And Expected Value=$100,001 or more
+Business Details PageValue Not Matching :Actual Value= And Expected Value=Based on the answers you provided, we are unable to offer you coverage at this time.
+Continue button is enabled
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Not Matching :Actual List Value=Breach of personal information And Expected Value=$10,000 or less
+Value Not Matching :Actual List Value=Cyber extortion And Expected Value=$10,001 - $15,000
+Value Not Matching :Actual List Value=Cyber fraud And Expected Value=$15,001 - $30,000
+Value Not Matching :Actual List Value=Hacking And Expected Value=$30,001 - $50,000
+Value Not Matching :Actual List Value=Identity theft And Expected Value=$50,001 - $75,000
+Value Not Matching :Actual List Value=Malware infection And Expected Value=$75,001 - $100,000
+Value Not Matching :Actual List Value=Media incident And Expected Value=$100,001 or more
+Value Not Matching :Actual List Value=Network incident And Expected Value=Select
+Value Not Matching :Actual List Value=Other And Expected Value=Breach of personal information
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=$10,000 or less And Expected Value=$10,000 or less
+Value Matching :Actual List Value=$10,001 - $15,000 And Expected Value=$10,001 - $15,000
+Value Matching :Actual List Value=$15,001 - $30,000 And Expected Value=$15,001 - $30,000
+Value Matching :Actual List Value=$30,001 - $50,000 And Expected Value=$30,001 - $50,000
+Value Matching :Actual List Value=$50,001 - $75,000 And Expected Value=$50,001 - $75,000
+Value Matching :Actual List Value=$75,001 - $100,000 And Expected Value=$75,001 - $100,000
+Value Matching :Actual List Value=$100,001 or more And Expected Value=$100,001 or more
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Not Matching :Actual List Value=2018 And Expected Value=$10,000 or less
+Value Not Matching :Actual List Value=2019 And Expected Value=$10,001 - $15,000
+Value Not Matching :Actual List Value=2020 And Expected Value=$15,001 - $30,000
+Value Not Matching :Actual List Value=2021 And Expected Value=$30,001 - $50,000
+Value Not Matching :Actual List Value=2022 And Expected Value=$50,001 - $75,000
+Business Details PageBusiness Details PageValue Matching :Actual Value=CB Inc And Expected Value=CB Inc
+Value Matching :Actual Value=Quebec And Expected Value=Quebec
+Validation is not displayedActual Value=8 And Expected Value=11
+Validation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedEmail Address is DisabledValue Matching :Actual Value=CB Inc And Expected Value=atcyber1may24@yopmail.com
+Actual Value=The field should be at least 8 characters long. And Expected Value=The field should be at least 8 characters long.
+Actual Value=Required field. And Expected Value=Values entered do not match.
+Quote summaryPremium Amount$393.53/yearProduct NameParachute Cyber 18Apr2022 (Prd-12775)TMNext Month Premium DateYour first premium is due today, upon electronic signature. Your next
+payment will be due on May 24th, 2023.PolicyHolder NameCB IncPolicyHolder EmailAddressatcyber1may24@yopmail.comPolicyHolder Coverage Amount$500,000PolicyHolder Deductible Amount$100,000PolicyHolder PhoneNumber(123) 123-1231PolicyHolder Address18054 Boul De Pierrefonds, 7, Pierrefonds, Quebec H9K 1K3PolicyHolder Premium Amount$361.04PolicyHolder Sub Total$361.04PolicyHolder Total$393.53Loss_Of_BusinessIdentity recoveryMisdirected_Payment_FraudNetwork_Security_LiabilityCyber_ExtortionComputer_AttackData_Compromise_Response_ExpensesElectronic_Media_LiabilityData_Compromise_Liability

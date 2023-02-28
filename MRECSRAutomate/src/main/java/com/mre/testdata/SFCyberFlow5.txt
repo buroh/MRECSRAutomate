@@ -1,0 +1,61 @@
+Actual Value=11 And Expected Value=11
+Value Matching :Actual Value=Enter a valid email address. And Expected Value=Enter a valid email address.
+Value Matching :Actual Value=Confirm your email address. And Expected Value=Confirm your email address.
+Value Matching :Actual Value=Values entered do not match. And Expected Value=Values entered do not match.
+Value Matching :Actual Value=Enter a valid website url. And Expected Value=Enter a valid website url.
+Business Type Dropdown is DisabledValue Matching :Actual List Value=Select And Expected Value=Select
+Value Matching :Actual List Value=All other amusement and recreation industries And Expected Value=All other amusement and recreation industries
+Value Matching :Actual List Value=Casinos (except casino hotels) And Expected Value=Casinos (except casino hotels)
+Value Matching :Actual List Value=Other gambling industries And Expected Value=Other gambling industries
+Value Matching :Actual Value=Based on the answers you provided, we are unable to offer you coverage at this time. And Expected Value=Based on the answers you provided, we are unable to offer you coverage at this time.
+Continue is disabled
+Value Matching :Actual Value=Revenue And Expected Value=Revenue
+Value Matching :Actual List Value=Select And Expected Value=Select
+Value Not Matching :Actual List Value=Public Administration And Expected Value=All other amusement and recreation industriesValue Matching :Actual Value=Expenses And Expected Value=Revenue
+Value Matching :Actual Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization). And Expected Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization).
+Value Matching :Actual Value=Enter a valid whole number. And Expected Value=Enter a valid whole number.
+Value Matching :Actual Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization). And Expected Value=Enter your total gross annual revenue (or net annual expenses, if a non-profit organization).
+Value Matching :Actual Value=Enter a valid whole number. And Expected Value=Enter a valid whole number.
+Continue Button is EnabledLoss_Of_Business
+Computer_Attack
+Identity recovery
+Data_Compromise_Response_Expenses
+Misdirected_Payment_Fraud
+Electronic_Media_Liability
+Network_Security_Liability
+Data_Compromise_Liability
+Cyber_Extortion
+If you lose business income because your system is down due to a computer attack, this covers your lost income, as well as any additional expenses you incur to get back up and running
+If someone gains unauthorized access to your computer system through malware, a hack, or other means, this covers the costs to restore your network. This includes things like the cost to remove malware from your system, close vulnerabilities that may exist, and recovery of lost or corrupted data.
+If the business owner(s) or their spouse(s) experience a personal identity theft, this provides expert support to regain control of their identity and reimburses expenses related to the identity theft.
+If someone gains unauthorized access to your computer system through malware, a hack, or other means, this covers the costs to restore your network. This includes things like the cost to remove malware from your system, close vulnerabilities that may exist, and recovery of lost or corrupted data.
+If someone gains unauthorized access to your computer system through malware, a hack, or other means, this covers the costs to restore your network. This includes things like the cost to remove malware from your system, close vulnerabilities that may exist, and recovery of lost or corrupted data.
+If you are sued for infringement, defamation, or violating a person's privacy as a result of your electronic publications, this covers your legal costs (legal fees and settlement costs).
+If you are sued for spreading malware, causing a DDOS attack, losing corporate data, or preventing authorized access to a system, this covers your legal costs (legal fees and settlement costs).
+If you are sued for losing your customers' personal information, this covers your legal costs (legal fees and settlement costs).
+If you are the victim of a ransomware attack, this covers the cost of a ransomware investigation firm to evaluate the type of ransomware, provide advice on whether to pay the ransom demand, facilitate any ransom payments, and to help decrypt your data. This also covers ransom payments made.
+Product Name : Parachute Cyber 18Apr2022 (Prd-12775)TM
+Eligibility : Based on the information you provided, you may be eligible for the following coverage. See below for coverage details.
+Cyber Coverage Amount : $50,000 of Cyber coverage
+Deductible Amount : $2,500
+Montly Premium Amount: $58.05/month
+Yearly Premium Amount : $696.63/year
+Cart Product Name : Parachute Cyber 18Apr2022 (Prd-12775)
+Cart Cyber Coverage Amount : Cyber coverage ($50,000)
+Cart Deductible Amount : Deductible ($2,500)
+Cart Premium Amount: $58.05
+Cart Tax Amount : $4.64
+Cart Total Premium Amount : $62.69
+Cart Logo  : Insurance is arranged by Parachute Digital Solutions Inc. and provided by The Boiler Inspection and Insurance Company of Canada, part of HSB Group.
+Cart Yearly Tax Amount : $55.73
+Cart Yearly Total Premium Amount : $752.36
+Cart Yearly Premium Amount: $696.63
+Business Details PageValue Matching :Actual Value=CB Inc And Expected Value=CB Inc
+Value Matching :Actual Value=Ontario And Expected Value=Ontario
+Validation is not displayedActual Value=8 And Expected Value=11
+Validation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedValidation is not displayedActual Value=0 And Expected Value=11
+Email Address is DisabledValue Matching :Actual Value=CB Inc And Expected Value=atcyber7may24@parachuteoffers.com
+Actual Value=The field should be at least 8 characters long. And Expected Value=The field should be at least 8 characters long.
+Actual Value=Required field. And Expected Value=Values entered do not match.
+Quote summaryPremium Amount$696.63/yearProduct NameParachute Cyber 18Apr2022 (Prd-12775)TMNext Month Premium DateYour first premium is due today, upon electronic signature. Your next
+payment will be due on May 24th, 2023.PolicyHolder NameCB IncPolicyHolder EmailAddressatcyber7may24@parachuteoffers.comPolicyHolder Coverage Amount$50,000PolicyHolder Deductible Amount$2,500PolicyHolder PhoneNumber(123) 123-1231PolicyHolder Address1640 Electra Blvd, 123, North Saanich, British Columbia V8L 5V4PolicyHolder Premium Amount$696.63PolicyHolder Sub Total$696.63PolicyHolder Total$696.63Loss_Of_BusinessIdentity recoveryMisdirected_Payment_FraudNetwork_Security_LiabilityCyber_ExtortionComputer_AttackData_Compromise_Response_ExpensesElectronic_Media_LiabilityData_Compromise_LiabilityPolicyHolder NameCB IncPolicyHolder EmailAddressatcyber7may24@parachuteoffers.comPolicyHolder NameCB IncPolicyHolder EmailAddressatcyber7may24@parachuteoffers.com

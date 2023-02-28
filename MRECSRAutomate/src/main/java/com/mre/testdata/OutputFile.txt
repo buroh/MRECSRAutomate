@@ -1,0 +1,4 @@
+Actual Value=11 And Expected Value=11
+Value Matching :Actual Value=Enter a valid email address. And Expected Value=Enter a valid email address.
+Value Matching :Actual Value=Confirm your email address. And Expected Value=Confirm your email address.
+Value Not Matching :Actual Value=Confirm your email address. And Expected Value=Values entered do not match.

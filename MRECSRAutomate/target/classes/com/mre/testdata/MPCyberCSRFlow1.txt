@@ -1,0 +1,54 @@
+2022.08.18.10.51.36
+BEFORE UPDATE:
+Business name
+Bang
+Head Office Address
+544 Rue Saint-Vallier O, W, Québec, Quebec G1N 1C1
+Mailing address
+2419 48 St SE, X, Calgary, Alberta T2B 1M5
+Email address
+stakes@yopmail.com
+Phone number
+(382) 942-4296
+AFTER UPDATE:
+Business name
+Sing
+Head Office Address
+544 Rue Saint-Vallier O, W, Québec, Quebec G1N 1C1
+Mailing address
+2419 48 St SE, X, Calgary, Alberta T2B 1M5
+Email address
+stakes@yopmail.com
+Phone number
+(382) 942-4296
+2022.08.18.10.53.02
+MP BUSINESS DETAILS AFTER UPDATE:
+Business name
+Sing
+Street address
+(Head office)
+544 Rue Saint-Vallier O, W, Québec, Quebec G1N 1C1
+Mailing address
+2419 48 St SE, X, Calgary, Alberta T2B 1M5
+Email address
+stakes@yopmail.com
+Phone number
+(382) 942-4296
+Business website
+www.test.com
+//MP CARDS AFTER UPDATE
+MasterCard
+222300xxxx5780
+Expires
+01-23
+Replace
+AMEX
+371449xxxx8431
+Expires
+01-23
+Remove
+Visa
+426397xxxx5262
+Expires
+01-23
+Remove
